@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="988be267-94e8-4520-8fe3-3cee87d94177" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1zmiukR85D7DwpiuS6Lt5Gdzg8C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="180" key="#Deployment" timestamp="1636392558383">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="180" key="#Deployment/0.0.1920.1080@0.0.1920.1080" timestamp="1636392558383" />
+    <state x="748" y="247" key="#Options" timestamp="1634844388599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="247" key="#Options/0.0.1920.1080@0.0.1920.1080" timestamp="1634844388599" />
+    <state x="645" y="167" key="#SSH_Configurations" timestamp="1634802111289">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="645" y="167" key="#SSH_Configurations/0.0.1920.1080@0.0.1920.1080" timestamp="1634802111289" />
+    <state x="849" y="276" key="FileChooserDialogImpl" timestamp="1636392779034">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="849" y="276" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1636392779034" />
+    <state x="572" y="165" key="SettingsEditor" timestamp="1634845145673">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="572" y="165" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1634845145673" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1634759905773">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1634759905773" />
+    <state x="594" y="352" key="ftp.server.browser" timestamp="1636392485244">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="594" y="352" key="ftp.server.browser/0.0.1920.1080@0.0.1920.1080" timestamp="1636392485244" />
+    <state x="939" y="424" key="publish.login" timestamp="1634801557593">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="939" y="424" key="publish.login/0.0.1920.1080@0.0.1920.1080" timestamp="1634801557593" />
+    <state x="708" y="401" key="search.everywhere.popup" timestamp="1634759899490">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="708" y="401" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1634759899490" />
+  </component>
+</project>
